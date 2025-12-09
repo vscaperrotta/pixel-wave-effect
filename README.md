@@ -1,2 +1,4 @@
-# pixel-wave-effect
-Simple pixel wave effect done canvas.
+## Pixel wave effect
+Simple pixel wave effect done with canvas and vanilla JavaScript.
+
+<img src="./screenshot.png" />
